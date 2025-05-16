@@ -108,6 +108,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Made with ❤️ by Anand Velpuri
+## Developed by Anand Velpuri
 
 If you like this project, please give it a ⭐️!
